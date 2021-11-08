@@ -1,10 +1,11 @@
 import { Paragrafo } from "./style";
 import { Header } from "../home/style";
+import Home from "../home";
 
 export default function About() {
     return (
         <>
-        <Header/>
+        <Home/>
         <Paragrafo>
             <h2>Sobre</h2>
 
