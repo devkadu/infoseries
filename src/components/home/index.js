@@ -8,8 +8,6 @@ export default function Home() {
                 <h1>infoSéries</h1>
 
                 <Link href="/about">About</Link>
-
-
             </Header>
         
     )
